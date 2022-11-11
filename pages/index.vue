@@ -13,23 +13,11 @@
         <br />
         with nuxt 3 and styled with Tailwind CSS
       </h2>
-      <div class="ml-6 text-center">
-        <a
-          class="inline-flex items-center py-3 font-semibold text-black transition duration-500 ease-in-out transform bg-transparent bg-white px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
-          href="/"
-        >
-          <div class="flex text-lg">
-            <span class="justify-center">View All Templates</span>
-          </div>
-        </a>
-        <a
-          class="inline-flex items-center py-3 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent ml-11 bg-gradient-to-r from-blue-500 to-blue-800 px-14 text-md md:mt-0 focus:shadow-outline"
-          href="/"
-        >
-          <div class="flex text-lg">
-            <span class="justify-center">Purchase</span>
-          </div>
-        </a>
+      <div class="text-center">
+        <Button class="text-black">View All Templates</Button>
+        <Button class="text-white bg-gradient-to-r from-blue-500 to-blue-800">
+          Purchase
+        </Button>
       </div>
     </div>
     <div class="container flex flex-col items-center justify-center mx-auto">
