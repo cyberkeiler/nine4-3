@@ -40,50 +40,10 @@
       styled with Tailwind CSS.
     </p>
     <div class="pt-12 pb-24 max-w-4xl mx-auto fsac4 md:px-1 px-3">
-      <div class="ktq4">
-        <img class="w-10" src="/favicon.png" />
-        <h3 class="pt-3 font-semibold text-lg text-white">
-          Lorem ipsum dolor sit amet
-        </h3>
-        <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-          tincidunt a libero in finibus. Maecenas a nisl vitae ante rutrum
-          porttitor.
-        </p>
-      </div>
-      <div class="ktq4">
-        <img class="w-10" src="/favicon.png" />
-        <h3 class="pt-3 font-semibold text-lg text-white">
-          Lorem ipsum dolor sit amet
-        </h3>
-        <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-          tincidunt a libero in finibus. Maecenas a nisl vitae ante rutrum
-          porttitor.
-        </p>
-      </div>
-      <div class="ktq4">
-        <img class="w-10" src="/favicon.png" />
-        <h3 class="pt-3 font-semibold text-lg text-white">
-          Lorem ipsum dolor sit amet
-        </h3>
-        <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-          tincidunt a libero in finibus. Maecenas a nisl vitae ante rutrum
-          porttitor.
-        </p>
-      </div>
-      <div class="ktq4">
-        <img class="w-10" src="/favicon.png" />
-        <h3 class="pt-3 font-semibold text-lg text-white">
-          Lorem ipsum dolor sit amet
-        </h3>
-        <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-          tincidunt a libero in finibus. Maecenas a nisl vitae ante rutrum
-          porttitor.
-        </p>
-      </div>
+      <Card />
+      <Card />
+      <Card />
+      <Card />
     </div>
     <div class="pt-32 pb-32 max-w-6xl mx-auto fsac4 md:px-1 px-3">
       <div class="ktq4">
